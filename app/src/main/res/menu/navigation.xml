@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/fragment_home" />
+    <item
+        android:id="@+id/navigation_counter"
+        android:icon="@drawable/ic_baseline_exposure_plus_1_24"
+        android:title="@string/fragment_counter" />
+    <item
+        android:id="@+id/navigation_notification"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:title="@string/fragment_notification" />
+</menu>
